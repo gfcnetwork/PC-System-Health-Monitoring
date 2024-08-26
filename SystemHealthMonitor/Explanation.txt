@@ -1,0 +1,9 @@
+Explanation
+get_system_info: Retrieves basic system information using the platform library.
+get_cpu_usage: Gets the current CPU usage percentage.
+get_memory_usage: Provides details about total, available, and used memory.
+get_disk_usage: Reports on total, used, and free disk space.
+get_network_bandwidth: Shows the amount of data sent and received over the network.
+get_temperature_info: Retrieves temperature information if available (not all systems support this).
+print_report: Prints all collected metrics to the console.
+Main Loop: Continuously prints the report every 60 seconds.
